@@ -1,4 +1,4 @@
-# Dự án Phát hiện Tuổi, Giới tính và Cảm xúc qua Camera
+# PROJECT PHÁT HIỆN TUỔI - GIỚI TÍNH - CẢM XÚC 
 
 Chào mừng đến với dự án sử dụng AI để nhận diện tuổi, giới tính và cảm xúc từ camera máy tính! Dự án này sử dụng thư viện DeepFace để phân tích hình ảnh thời gian thực, giúp bạn khám phá cách AI có thể áp dụng trong cuộc sống hàng ngày.
 
