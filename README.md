@@ -1,4 +1,5 @@
 # PROJECT PHÁT HIỆN TUỔI - GIỚI TÍNH - CẢM XÚC 
+![image](https://github.com/user-attachments/assets/7b9b1112-963d-47ab-8ff9-2d2e4bbaa3e7)
 
 Chào mừng đến với dự án sử dụng AI để nhận diện tuổi, giới tính và cảm xúc từ camera máy tính! Dự án này sử dụng thư viện DeepFace để phân tích hình ảnh thời gian thực, giúp bạn khám phá cách AI có thể áp dụng trong cuộc sống hàng ngày.
 
